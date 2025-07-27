@@ -6,14 +6,14 @@ I have set up my homelab with random old hardware I have lying around. I started
 
 # Gear / Hardware
 ------
-***Raspberry Pi 4***
-***Raspberry Pi 2B***
-***Intel NUC***
-***ACER Desktop***
-***ASUS Desktop***
-***HP Desktop***
-***Lenovo IdeaPad***
-***Asus Laptop***
+* ***Raspberry Pi 4***
+* ***Raspberry Pi 2B***
+* ***Intel NUC***
+* ***ACER Desktop***
+* ***ASUS Desktop***
+* ***HP Desktop***
+* ***Lenovo IdeaPad***
+* ***Asus Laptop***
 
 # Software
 ---
