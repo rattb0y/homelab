@@ -1,5 +1,4 @@
 # :house: homelab
----
 # Summary
 ---
 I have set up my homelab with random old hardware I have lying around. I started this homelab for learning purposes to start with. Very quickly, I found how valuable it has become for self-hosting.  
